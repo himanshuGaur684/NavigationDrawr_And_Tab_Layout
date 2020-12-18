@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NavigationDrawr &amp; Tab Layout</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sixth_fragment">Sixth Fragment</string>
+    <string name="second_fragment">Second Fragment</string>
+    <string name="fourth_fragment">Fourth Fragment</string>
+    <string name="first_fragment">First Fragment</string>
+    <string name="fifth_fragment">Fifth Fragment</string>
+</resources>
